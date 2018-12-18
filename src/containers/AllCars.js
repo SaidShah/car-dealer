@@ -61,5 +61,4 @@ class AllCars extends Component {
     );
   }
 }
-
 export default AllCars;
