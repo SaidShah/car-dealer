@@ -7,5 +7,4 @@ const SoldCar = ({car}) => (
   <h3>color: {car.currentCar.color} | Sold for: ${car.currentCar.price}</h3>
   </div>
 );
-
 export default SoldCar;
