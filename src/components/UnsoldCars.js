@@ -8,5 +8,4 @@ const UnsoldCars = ({car, isSold, sellCar}) => (
     <button onClick={(e) => sellCar(e,car)} className="sellButton">Mark as sold</button>
   </div>
 );
-
 export default UnsoldCars
